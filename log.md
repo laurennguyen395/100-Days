@@ -19,6 +19,8 @@ The log of my #100DaysOfCode challenge. Started on [Jan 14, Thursday, 2021].
   Follow up:
   Could you do it without any loop/recursion in O(1) runtime?)) : 1:30pm-2pm
 
-- Udemy's 50 Projects In 50 Days (Project 1) :
+- Udemy's 50 Projects In 50 Days (Project 1) : 2:45pm - 3:15pm
 
 ### Day 2 01/15/2021
+
+- Udemy's 50 Projects In 50 Days (Project 2) : 9am-
