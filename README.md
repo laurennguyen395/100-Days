@@ -6,7 +6,6 @@
 * [Log - click here to see my progress](log.md)
 * [Letters-to-Burn-client - click here to see my progress](https://github.com/laurennguyen395/Letters-to-Burn-Client)
 * [Letters-to-Burn-SQL - click here to see my progress](https://github.com/laurennguyen395/Letters-to-Burn-Sql)
-* [FAQ](FAQ.md)
 * [Resources](resources.md)
 
 ## If you've decided to join:
