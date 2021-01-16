@@ -24,3 +24,9 @@ The log of my #100DaysOfCode challenge. Started on [Jan 14, Thursday, 2021].
 ### Day 2 01/15/2021
 
 - Udemy's 50 Projects In 50 Days (Project 2) : 9am-9:35am
+- Work on Portfolio : 10:30am-10:50am
+- "Letters to Burn" : 11:10am-1pm
+
+### Day 3 01/16/2021
+
+- Udemy's 50 Projects In 50 Days (Project 3) : 11:30am-12:34pm
