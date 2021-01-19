@@ -30,3 +30,13 @@ The log of my #100DaysOfCode challenge. Started on [Jan 14, Thursday, 2021].
 ### Day 3 01/16/2021
 
 - Udemy's 50 Projects In 50 Days (Project 3) : 11:30am-12:34pm
+
+### Day 4 01/17/2021
+
+- Working on a news ticker for Johnny's website : 11:25am-12pm
+
+### Day 5 01/18/2021
+
+- Spent today working on job searches
+
+### Day 6 01/19 /2021
