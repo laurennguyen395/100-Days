@@ -39,4 +39,12 @@ The log of my #100DaysOfCode challenge. Started on [Jan 14, Thursday, 2021].
 
 - Spent today working on job searches
 
-### Day 6 01/19 /2021
+### Day 6 01/19/2021
+
+### Day 7 01/20 /2021
+
+### Day 8 01/21/2021
+
+### Day 9 01/22/2021
+
+### Day 10 01/23/2021
