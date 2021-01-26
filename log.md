@@ -37,7 +37,7 @@ The log of my #100DaysOfCode challenge. Started on [Jan 14, Thursday, 2021].
 
 ### Day 5 01/18/2021
 
-- Spent today working on job searches
+- Spent today working on the job search
 
 ### Day 6 01/19/2021
 
@@ -60,3 +60,16 @@ The log of my #100DaysOfCode challenge. Started on [Jan 14, Thursday, 2021].
 
 - Udemy's 50 Projects In 50 Days (Project 6) : 11am-11:30am
 - Udemy's 50 Projects In 50 Days (Project 7) : 11:30am-12pm
+- Udemy's 50 Projects In 50 Days (Project 8) : 3pm-3:30pm
+
+### Day 11 01/24/2021
+
+- Udemy's 50 Projects In 50 Days (Project 9) : 10am-10:15am
+
+### Day 12 01/25/2021
+
+- Spent today working on the job search
+
+### Day 12 01/25/2021
+
+- Work on Portfolio : 1:00pm-2:30pm
