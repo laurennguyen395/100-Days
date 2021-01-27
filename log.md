@@ -70,6 +70,10 @@ The log of my #100DaysOfCode challenge. Started on [Jan 14, Thursday, 2021].
 
 - Spent today working on the job search
 
-### Day 12 01/25/2021
+### Day 12 01/26/2021
 
 - Work on Portfolio : 1:00pm-2:30pm
+
+### Day 12 01/26/2021
+
+- Work on Redesign of Portfolio : 12:00pm-2:34pm
